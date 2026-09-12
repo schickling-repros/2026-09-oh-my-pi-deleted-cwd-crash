@@ -37,4 +37,4 @@ The original failure was also observed with OMP 18.1.14. The regression range is
 
 ## Related Issue
 
-Pending.
+- https://github.com/can1357/oh-my-pi/issues/11828
